@@ -1,4 +1,4 @@
-![Alt text](Monika testing image.png)
+![Alt text](Monika_testing.png)
 
 ## Hi there 👋
 
