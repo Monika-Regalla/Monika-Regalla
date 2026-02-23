@@ -1,4 +1,4 @@
-<img src="Monika_testing.png" alt="Alt text" width="600">
+<img src="Monika_testing.png" alt="Alt text" width="900" height="250">
 
 ## Hi there 👋
 
