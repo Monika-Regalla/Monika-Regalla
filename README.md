@@ -32,32 +32,32 @@ QA Engineer with 7+ years of experience in Automation and Manual testing, with s
 
 ### **Enpal Energy GMBH, Berlin**
 **QA Automation engineer** 
-📅 Aug 2025 – Feb 2026 
-•	Established QA processes from scratch, validating UI, backend services, and external applications while collaborating with different teams.
-•	Built a regression automation suite using Playwright (TypeScript) and enhanced efficiency with AI assisted tools like Cursor.
-•	Test Repo and version control using Azure devops.
-•	Performed Rest API and backend testing using Bruno and MongoDB.
-•	Tested customer facing web apps, and mobile app.
-•	Supported tech team by managing support tickets, categorizing issues, and improving quality by identifying recurring flows.
+📅 Aug 2025 – Feb 2026
+- Established QA processes from scratch, validating UI, backend services, and external applications while collaborating with different teams.
+- Built a regression automation suite using Playwright (TypeScript) and enhanced efficiency with AI assisted tools like Cursor.
+- Test Repo and version control using Azure devops.
+- Performed Rest API and backend testing using Bruno and MongoDB.
+- Tested customer facing web apps, and mobile app.
+- Supported tech team by managing support tickets, categorizing issues, and improving quality by identifying recurring flows.
 
 ---
 
 ### **DXC Technology Pvt Ltd, India**  
 **Professional 2 Product Test**  
 📅 Sept 2022 – Sept 2023  
-•	Developed a UI automation framework using Playwright with TypeScript and set up a CI/CD pipeline (GitHub Actions) to enable end to end automation.
-•	Worked on API testing using PostMan on Salesforce application integrating with UI.
-•	I90(backend) integration testing with UI.
-•	Responsible for QA activities, Test/Defect management using Jira, Scrum calls, and Defect triage calls.
+- Developed a UI automation framework using Playwright with TypeScript and set up a CI/CD pipeline (GitHub Actions) to enable end to end automation.
+- Worked on API testing using PostMan on Salesforce application integrating with UI.
+- I90(backend) integration testing with UI.
+- Responsible for QA activities, Test/Defect management using Jira, Scrum calls, and Defect triage calls.
 
 ---
 
 ### **Capgemini Technology Services, India**  
 **Senior Consultant**  
 📅 Sept 2019 – Aug 2022  
-•	Worked on Guidewire policy center and claims center web application testing.
-•	Worked on different functionalities/tools like Rating, Cesar, Z-spire, workbench, Ranorex, Postman, Jira and VSTS.
-•	Requirements analysis, Test Plan, Test Design and Execution, Test Summary report, and capacity planning.
+- Worked on Guidewire policy center and claims center web application testing.
+- Worked on different functionalities/tools like Rating, Cesar, Z-spire, workbench, Ranorex, Postman, Jira and VSTS.
+- Requirements analysis, Test Plan, Test Design and Execution, Test Summary report, and capacity planning.
 
 ---
 
