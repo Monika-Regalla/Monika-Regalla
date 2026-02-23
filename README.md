@@ -1,4 +1,4 @@
-![Alt text](Monika_testing.png)
+<img src="Monika_testing.png" alt="Alt text" width="600">
 
 ## Hi there 👋
 
